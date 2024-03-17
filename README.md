@@ -1,2 +1,2 @@
 # Web-Scraping-Practice
-This repository is created to learn and implement the basic web scraping process in python 
+The aim of this repository is to understand and implement the basic Web Scraping process in Python.
